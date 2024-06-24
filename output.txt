@@ -1,0 +1,14 @@
+Frequent Itemsets: 
+frozenset({'bread'}): 8
+frozenset({'butter'}): 7
+frozenset({'milk'}): 6
+frozenset({'jam'}): 4
+frozenset({'bread', 'butter'}): 6
+frozenset({'milk', 'bread'}): 5
+frozenset({'milk', 'butter'}): 4
+frozenset({'bread', 'jam'}): 4
+frozenset({'butter', 'jam'}): 3
+frozenset({'milk', 'bread', 'butter'}): 4
+
+Execution Time: 0.123 seconds
+Number of Workers: 3
